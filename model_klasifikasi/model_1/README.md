@@ -18,3 +18,6 @@
 <ol>
   <li>Fitness Goal</li>
  <ol>
+
+### Models' Accuracies and Lossess
+![model_1_v1](relative/path/to/your/image.png)
