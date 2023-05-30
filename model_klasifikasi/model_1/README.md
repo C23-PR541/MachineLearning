@@ -1,13 +1,20 @@
 # Deep Learning Model for Classyfing Workout Type
 ### Features for classifying
 <ol>
-  <li>Age</li>
-  <li>Second item</li>
-  <li>Third item
-    <ol>
-      <li>Indented item</li>
-      <li>Indented item</li>
+  <li>Gender
+  <ol>
+      <li>Female : 0</li>
+      <li>Male   : 1</li>
     </ol>
   </li>
-  <li>Fourth item</li>
+  <li>Age</li>
+  <li>Workout Experience (in years) (int64) </li>
+  <li>Workout Time (in minute) (per hour)</li>
+  <li>Weight</li>
+  <li>Height</li>
 </ol>
+
+### Target Feature to Classify
+<ol>
+  <li>Fitness Goal</li>
+ <ol>
