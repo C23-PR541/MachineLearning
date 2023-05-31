@@ -17,4 +17,4 @@
 ### Target Feature
 <li>Fitness Goal</li>
 
-![Model v.1](/img/model_1_v1.png)
+![Model v.1](MachineLearning/model_klasifikasi/model_1/img/model_1_v1.png)
