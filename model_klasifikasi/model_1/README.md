@@ -14,3 +14,5 @@
   <li>Height (cm) </li>
 </ol>
 
+### Target Feature
+<li>Fitness Goal</li>
