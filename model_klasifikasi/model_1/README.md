@@ -22,4 +22,7 @@
 ![Model v.1](/model_klasifikasi/model_1/img/model_1_v1.png)
 <br>
 ### Model V.2
-![Model v.1](/model_klasifikasi/model_1/img/model_1_v2.png)
+![Model v.2](/model_klasifikasi/model_1/img/model_1_v2.png)
+<br>
+### Model V.3
+![Model v.3](/model_klasifikasi/model_1/img/model_1_v3.png)
