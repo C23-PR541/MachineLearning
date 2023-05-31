@@ -16,5 +16,8 @@
 
 ### Target Feature
 <li>Fitness Goal</li>
+<br>
+<br>
 
+### Model V.1
 ![Model v.1](/model_klasifikasi/model_1/img/model_1_v1.png)
