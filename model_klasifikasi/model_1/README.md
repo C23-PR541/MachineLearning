@@ -26,3 +26,6 @@
 <br>
 ### Model V.3
 ![Model v.3](/model_klasifikasi/model_1/img/model_1_v3.png)
+<br>
+### Model V.4
+![Model v.4](/model_klasifikasi/model_1/img/model_1_v4.png)
