@@ -15,5 +15,10 @@
 </ol>
 
 ### Target Feature
-<li>Fitness Goal</li>
+<li>Fitness Goal
+  <ol><ol>
+      <li>Weight loss : 0</li>
+      <li>Muscle up : 1</li>
+  </ol></ol>
+</li>
 <br>
