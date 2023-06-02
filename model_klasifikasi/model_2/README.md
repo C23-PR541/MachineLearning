@@ -21,4 +21,5 @@
       <li>Muscle up : 1</li>
   </ol></ol>
 </li>
-<br>
+
+### Model's Accuracy
