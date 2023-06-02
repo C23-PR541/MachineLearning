@@ -23,3 +23,4 @@
 </li>
 
 ### Model's Accuracy
+![model_2v1](/model_klasifikasi/model_2/img/model_2_v1.png)
