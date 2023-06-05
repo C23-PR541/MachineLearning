@@ -12,6 +12,7 @@
   <li>Workout Time  (minutes) <int></li>
   <li>Weight (kg) </li>
   <li>Height (cm) </li>
+  <li>BMI</li>
 </ol>
 
 ### Target Feature
@@ -29,3 +30,6 @@
 <br>
 ### Model V.4
 ![Model v.4](/model_klasifikasi/model_1/img/model_1_v4.png)
+<br>
+### Model V.5
+![Model v.5](/model_klasifikasi/model_1/img/model_1_v5.png)
