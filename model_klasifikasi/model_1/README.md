@@ -12,6 +12,7 @@
   <li>Workout Time  (minutes) <int></li>
   <li>Weight (kg) </li>
   <li>Height (cm) </li>
+  <li>BMI</li>
 </ol>
 
 ### Target Feature
