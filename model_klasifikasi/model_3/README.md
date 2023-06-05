@@ -1,4 +1,4 @@
-# Logistic Regression Model for Classyfing Workout Type
+# Random Forest Model for Classyfing Workout Type
 ### Features for classifying
 <ol>
   <li>Gender
