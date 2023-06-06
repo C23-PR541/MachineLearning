@@ -1,4 +1,4 @@
-# Logistic Regression Model for Classyfing Workout Type
+# Random Forest Model for Classyfing Workout Type
 ### Features for classifying
 <ol>
   <li>Gender
@@ -25,5 +25,5 @@
 
 ### Model's Accuracy
 #### Model V.1
-![model_2v1](/model_klasifikasi/model_2/img/model_2_v1.png)
+![model_3v1](/model_klasifikasi/model_3/img/model_3_v1.png)
 <br>
