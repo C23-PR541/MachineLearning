@@ -7,7 +7,7 @@
       <li>Male   : 1</li>
     </ol>
   </li>
-  <li>Age</li>
+  <li>Age (years)</li>
   <li>Workout Experience (years) <int></li>
   <li>Workout Time  (minutes) <int></li>
   <li>Weight (kg) </li>
