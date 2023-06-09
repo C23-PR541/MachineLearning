@@ -7,12 +7,12 @@
       <li>Male   : 1</li>
     </ol>
   </li>
-  <li>Age</li>
+  <li>Age (years)</li>
   <li>Workout Experience (years) <int></li>
   <li>Workout Time  (minutes) <int></li>
   <li>Weight (kg) </li>
   <li>Height (cm) </li>
-  <li>BMI</li>
+  <li>BMI (kg / m<sup>2</sup> )</li>
 </ol>
 
 ### Target Feature
